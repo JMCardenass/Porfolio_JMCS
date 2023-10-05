@@ -64,5 +64,5 @@ Dejo algunos de los proyectos en los que participe
 ## Conéctate Conmigo 📱
 Puedes contactarme por medio de las siguientes plataformas:
 
-- [![LinkedIn] www.linkedin.com/in/juan-cardenas-sanchez-076b26284
-- Torre: [Mi perfil en Torre]https://torre.ai/juanmanuelcardenassanchez
+- LinkedIn www.linkedin.com/in/juan-cardenas-sanchez-076b26284
+- Torre:https://torre.ai/juanmanuelcardenassanchez
