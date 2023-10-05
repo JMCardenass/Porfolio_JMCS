@@ -46,6 +46,7 @@ A continuacion dejare mis habiliades que pronto aumentaran.
 [![TRELLO](https://img.shields.io/badge/TRELLO-black?style=for-the-badge&logo=TRELLO)](https://github.com/JMCardenass/Porfolio_JMCS)
 
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)](https://github.com/JMCardenass/Porfolio_JMCS)
+[![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Figma)](https://github.com/JMCardenass/Porfolio_JMCS)
 
 
 
