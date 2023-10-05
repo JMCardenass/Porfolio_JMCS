@@ -53,9 +53,9 @@ A continuacion dejare mis habiliades que pronto aumentaran.
 Dejo algunos de los proyectos en los que participe 
 
 -  Django (Empleabilidad)
--  MEAN Full Stack (Lista de Tareas)
--  MEAN Full Stack (Asistente Hero)
--  MEAN Full Stack (Foro de Biblioteca)
+-  Full Stack (Lista de Tareas)
+-  Full Stack (Asistente Hero)
+-  Full Stack (Foro de Biblioteca)
 -  Django REST Framework (Ejemplo de Biblioteca)
 -  FastAPI CRUD (Sistema de Inventario)
 -  Programación Orientada a Objetos (POO)
