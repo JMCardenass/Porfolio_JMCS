@@ -37,8 +37,6 @@ A continuacion dejare mis habiliades que pronto aumentaran.
 
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL)](https://github.com/JMCardenass/Porfolio_JMCS)
 
-[![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)](https://github.com/JMCardenass/Porfolio_JMCS)
-
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)](https://github.com/JMCardenass/Porfolio_JMCS)
 
 [![NodeJs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=Node.Js)](https://github.com/JMCardenass/Porfolio_JMCS)
